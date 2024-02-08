@@ -14,11 +14,13 @@ I am a final-year Master of Research student in the Mathematics, Vision, Apprent
 - **Sorbonne University**
   <div style="display: flex; align-items: center;">
     <img src="logo_su.png" alt="Sorbonne University" width="40" height="40" style="margin-right: 10px;">
-    <span>
-      *Master's degree in Applied Mathematics* <br>
-      *Bachelor's degree in Mathematics* <br>
-      *Bachelor's degree in Computer Science*
-    </span>
+    <div>
+      <p style="margin: 0;">
+        <strong>Master's degree in Applied Mathematics</strong> <br>
+        <strong>Bachelor's degree in Mathematics</strong> <br>
+        <strong>Bachelor's degree in Computer Science</strong>
+      </p>
+    </div>
   </div>
 
 ## Research Interests
