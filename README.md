@@ -2,7 +2,38 @@
 I am a final-year Master of Research student in the Mathematics, Vision, Apprentissage (MVA) program at ENS Paris-Saclay, with a focus on machine learning, computer vision, and generative models. My goal is to pursue a Ph.D. in these areas to contribute to cutting-edge research and advancements in artificial intelligence.
 
 - **Sorbonne University**
-# Project Title
+
+<style>
+.degree-list {
+    display: flex;
+}
+
+.degree-item {
+    margin-left: 30px; /* adjust as needed */
+}
+</style>
+
+<div class="degree-list">
+    <img src="path_to_your_image.png" alt="Image description" style="width: 250px; height: auto; float: left;" />
+    <div class="degree-item">
+        <h4>Master Degree</h4>
+        Details about master degree...
+    </div>
+</div>
+
+<div class="degree-list">
+    <div class="degree-item">
+        <h4>Bachelor's degree 1</h4>
+        Details about bachelor's degree 1...
+    </div>
+</div>
+
+<div class="degree-list">
+    <div class="degree-item">
+        <h4>Bachelor's degree 2</h4>
+        Details about bachelor's degree 2...
+    </div>
+</div>
 
 ## Description
 ...
