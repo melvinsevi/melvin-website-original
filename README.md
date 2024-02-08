@@ -5,10 +5,11 @@ I am a final-year Master of Research student in the Mathematics, Vision, Apprent
 - **ENS Paris-Saclay**
   <div style="display: flex; align-items: center;">
     <img src="ens_logo.png" alt="ENS Paris-Saclay" width="40" height="40" style="margin-right: 10px;">
-    <span>
+    <div style="flex-grow: 1;">
       *Master of Research MVA (2nd year) in Mathematics, Machine Learning, Computer Vision at the MVA*
-    </span>
+    </div>
   </div>
+
 
 - **Sorbonne University**
   <div style="display: flex; align-items: center;">
