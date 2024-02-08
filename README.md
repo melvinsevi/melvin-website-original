@@ -14,52 +14,6 @@ I am a final-year Master of Research student in the Mathematics, Vision, Apprent
 
 
 - **Sorbonne University**
-<style>
-  .education-item {
-    margin-bottom: 10px;
-  }
-  
-  .institution-name {
-    font-weight: bold;
-    white-space: nowrap;
-  }
-  
-  .description {
-    padding-left: 8px;
-  }
-</style>
-
-<div class="education-item">
-  <span class="institution-name">Sorbonne University Paris, France</span>
-  <span class="description">
-    <span>Master’s degree in Applied Mathematics (1st year)</span>
-
-    With high honors, Sep. 2022 – Jun. 2023.
-
-    Top 10% out of 245 students, Cumulative GPA: 3.6/4.0.
-  </span>
-</div>
-
-<div class="education-item">
-  <span class="institution-name">Sorbonne University Paris, France</span>
-  <span class="description">
-    Bachelor’s degree in Mathematics
-
-    With honors, Sep. 2019 – Jun. 2022.
-
-    Third Year GPA: 3.5/4.0, Cumulative GPA: 3.7/4.0.
-  </span>
-</div>
-
-<div class="education-item">
-  <span class="institution-name">Sorbonne University Paris, France</span>
-  <span class="description">
-    Bachelor’s degree in Computer Science
-
-    With honors, Sep. 2019 – Jun. 2022.
-  </span>
-</div>
-  
 # Project Title
 
 ## Description
