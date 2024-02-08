@@ -13,7 +13,7 @@ I am a final-year Master of Research student in the Mathematics, Vision, Apprent
 
 - **Sorbonne University**
   <div style="display: flex; align-items: center;">
-    <img src="sorbonne_logo.png" alt="Sorbonne University" width="40" height="40" style="margin-right: 10px;">
+    <img src="logo_su.png" alt="Sorbonne University" width="40" height="40" style="margin-right: 10px;">
     <div style="display: flex; flex-direction: column;">
       <strong>Master's degree in Applied Mathematics</strong>
       <strong>Bachelor's degree in Mathematics</strong>
