@@ -3,12 +3,13 @@ I am a final-year Master of Research student in the Mathematics, Vision, Apprent
 
 ## Education
 <p style="text-align: justify; margin-bottom: 5px;">
-  <span style="float: left; display: inline-block; margin-right: 10px;">
-    <img src="ens_logo.png" alt="ENS Paris-Saclay" width="50" height="50">
+  <span style="display: flex; align-items: center; align-self: baseline; margin-right: 10px;">
+    <img src="ens_logo.png" alt="ENS Paris-Saclay" width="40" height="40">
   </span>
-  <strong>ENS Paris-Saclay</strong>
-
-  Master of Research MVA (2nd year) in Mathematics, Machine Learning, Computer Vision at the MVA
+  ENS Paris-Saclay &nbsp;&nbsp;
+  <span style="font-weight: bold;">
+     Master of Research MVA (2nd year) in Mathematics, Machine Learning, Computer Vision at the MVA
+  </span>
 </p>
 
 
