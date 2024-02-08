@@ -1,28 +1,66 @@
-# Portfolio
-
-## Summary
-I am a final-year Master of Research student in the Mathematics, Vision, Apprentissage (MVA) program at ENS Paris-Saclay, the most prestigious master's degree in machine learning in France. My main research interests include Computer Vision and multimodal learning, with a specific focus on Generative AI, Diffusion Models, and Large Language Models. I am eager to pursue a Ph.D. to delve deeper into these areas and contribute to the cutting-edge research in the field.
+## About Me
+I am a final-year Master of Research student in the Mathematics, Vision, Apprentissage (MVA) program at ENS Paris-Saclay, with a focus on machine learning, computer vision, and generative models. My goal is to pursue a Ph.D. in these areas to contribute to cutting-edge research and advancements in artificial intelligence.
 
 ## Education
 - **ENS Paris-Saclay**
-  - *Master of Research MVA (2nd year) in Mathematics and Machine Learning*
-  - Sep. 2023 - Sep. 2024 (Expected)
+  <div style="display: flex; align-items: center;">
+    <img src="ens_logo.png" alt="ENS Paris-Saclay" width="40" height="40" style="margin-right: 10px;">
+    <span>
+      *Master of Research MVA (2nd year) in Mathematics, Machine Learning, Computer Vision at the MVA*
+    </span>
+  </div>
 
 - **Sorbonne University**
-  - *Master's degree in Applied Mathematics (1st year) With high honors*
-  - Sep. 2022 - Jun. 2023
+  <div style="display: flex; align-items: center;">
+    <img src="logo_su.png" alt="Sorbonne University" width="40" height="40" style="margin-right: 10px;">
+    <span>
+      *Master's degree in Applied Mathematics* <br>
+      *Bachelor's degree in Mathematics* <br>
+      *Bachelor's degree in Computer Science*
+    </span>
+  </div>
 
-  <!-- Add other education entries similarly -->
+## Research Interests
+- Computer Vision
+- Generative AI
+- Diffusion Models
+- Large Language Models
 
-## Projects
-- **Text-to-Image generation control with IP-Adapter (Project at the MVA)**
-  - On going
-  - I am contributing to the development of the IP-Adapter model for text-to-image generation by enhancing its creative capabilities. By modifying the existing architecture, we aim to increase the expressiveness and variability of generated images while maintaining high levels of fidelity and realism.
+## Research Experience
+- **Text-to-Image Generation Control with IP-Adapter (Project at the MVA)**
+  - *On going*
+  - Enhancing the creative capabilities of the IP-Adapter model for text-to-image generation.
 
-- **Refining image segmentation through diffusion models (Project at the MVA)**
-  - 2023-2024
-  - In this project, I am exploring the use of diffusion models for refining image segmentation tasks. Building on recent advances in generative modeling, I aim to leverage the Unleashing Text-to-Image Diffusion Models for Visual Perception (VPD) framework to enhance the accuracy and robustness of image segmentation techniques. The resulting method could have applications in medical imaging, autonomous systems, and other domains where precise object detection and delineation are critical.
+- **Refining Image Segmentation through Diffusion Models (Project at the MVA)**
+  - *2023-2024*
+  - Exploring diffusion models for refining image segmentation tasks.
 
-  <!-- Add other project entries similarly -->
+- **Data Challenge for Sketch Drawings Images Classification (Project at the MVA)**
+  - *2023*
+  - Achieved top submissions in class for classifying sketch drawing images.
 
-<!-- Add other sections (Research Experience, Professional Experience, Skills, Achievements, Interests and Activities) similarly -->
+## Professional Experience
+- **Research Internship (Upcoming)**
+  - *April 2024 - September 2024*
+  - Undertaking a 6-month research internship to publish a paper at top conferences.
+
+- **Tutoring**
+  - *2022-2023*
+  - Tutored second-year bachelor's students in topology, differential calculus, and probability.
+
+## Skills
+- **Programming Languages and Software:**
+  - Python, C, Java, C++
+  - NumPy, Pytorch, Pandas, Scikit-learn, OpenCV, Google Cloud
+
+- **Languages:**
+  - Fluent in French, Good command of English, Basic understanding of Spanish
+
+## Achievements
+- Graduated with High Honors in Master's degree.
+- Top 7% in Bachelor's degree, qualifying for a dual degree in Mathematics and Computer Science.
+- Admission to renowned institutions such as ENSAE Paris – Institut Polytechnique de Paris and Dauphine PSL.
+
+## Interests and Activities
+- Avid chess player
+- Music enthusiast
