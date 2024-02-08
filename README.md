@@ -2,13 +2,14 @@
 I am a final-year Master of Research student in the Mathematics, Vision, Apprentissage (MVA) program at ENS Paris-Saclay, with a focus on machine learning, computer vision, and generative models. My goal is to pursue a Ph.D. in these areas to contribute to cutting-edge research and advancements in artificial intelligence.
 
 ## Education
-- **ENS Paris-Saclay**
-  <div style="display: flex; align-items: center;">
-    <img src="ens_logo.png" alt="ENS Paris-Saclay" width="40" height="40" style="margin-right: 10px;">
-    <div style="flex-grow: 1;">
-      *Master of Research MVA (2nd year) in Mathematics, Machine Learning, Computer Vision at the MVA*
-    </div>
-  </div>
+<p style="text-align: justify; margin-bottom: 5px;">
+  <span style="float: left; display: inline-block; margin-right: 10px;">
+    <img src="ens_logo.png" alt="ENS Paris-Saclay" width="40" height="40">
+  </span>
+  <strong>ENS Paris-Saclay</strong>
+
+  Master of Research MVA (2nd year) in Mathematics, Machine Learning, Computer Vision at the MVA
+</p>
 
 
 - **Sorbonne University**
