@@ -12,6 +12,7 @@ I am a final-year Master of Research student in the Mathematics, Vision, Apprent
 
 
 - **Sorbonne University**
+  
 # Project Title
 
 ## Description
@@ -19,14 +20,6 @@ I am a final-year Master of Research student in the Mathematics, Vision, Apprent
 
 ## Education
 
-| Institution           | Degree / Course                                                        | Years          |
-|-----------------------|------------------------------------------------------------------------|---------------|
-| ![ENS Paris-Saclay](ens_logo.png "ENS Paris-Saclay")              | Master of Research MVA (2nd year), Mathematics, Machine Learning, Computer Vision at the MVA       | Sep 20XX - Aug 20YY     |
-| ![Sorbonne University](sorbonne_logo.png "Sorbonne University")  | Master's degree in Applied Mathematics                                   | Sep 20XX - Aug 20YY     |
-|                       | Bachelor's degree in Mathematics                                        | Sep 20XX - Aug 20YY     |
-|                       | Bachelor's degree in Computer Science                                  | Sep 20XX - Aug 20YY     |
-
-Replace XX and YY with the appropriate years of attendance. Make sure to include the logos (`ens_logo.png`, `sorbonne_logo.png`) in the same folder as your README file.
 
 ## Additional Sections
 
