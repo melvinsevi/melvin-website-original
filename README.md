@@ -12,21 +12,15 @@ I am a final-year Master of Research student in the Mathematics, Vision, Apprent
 
 
 - **Sorbonne University**
-  <div style="display: flex; align-items: flex-start;">
-    <img src="logo_su.png" alt="Sorbonne University" width="40" height="40" style="margin-right: 10px;">
+  <div style="display: flex; align-items: center;">
+    <img src="sorbonne_logo.png" alt="Sorbonne University" width="40" height="40" style="margin-right: 10px;">
     <div style="display: flex; flex-direction: column;">
-      <p style="margin: 0;">
-        <strong>Master's degree in Applied Mathematics</strong>
-      </p>
-      <p style="margin: 0;">
-        <strong>Bachelor's degree in Mathematics</strong>
-      </p>
-      <p style="margin: 0;">
-        <strong>Bachelor's degree in Computer Science</strong>
-      </p>
+      <strong>Master's degree in Applied Mathematics</strong>
+      <strong>Bachelor's degree in Mathematics</strong>
+      <strong>Bachelor's degree in Computer Science</strong>
     </div>
   </div>
-
+  
 ## Research Interests
 - Computer Vision
 - Generative AI
