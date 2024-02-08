@@ -1,8 +1,6 @@
-#Student
+# Student
 
-###
-Education
+### Education
 Master MVA - ENS Paris-Saclay
 
-###
-Projects
+### Projects
