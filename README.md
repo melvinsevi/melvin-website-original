@@ -8,7 +8,7 @@ I am a final-year Master of Research student in the Mathematics, Vision, Apprent
   </span>
   ENS Paris-Saclay &nbsp;&nbsp;
   <span style="font-weight: bold;">
-     Master of Research MVA in Mathematics, Machine Learning, Computer Vision at the MVA
+       Master of Research MVA in Mathematics, Machine Learning, Computer Vision at the MVA
   </span>
 </p>
 
